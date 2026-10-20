@@ -1,5 +1,6 @@
 
 # Customer Churn Prediction & Retention Analytics
+https://customer-churn-retention-analytics-vpgyhj3bgcwvoru3z5d6kt.streamlit.app/
 
 ## Project Overview
 This project uses Machine Learning to predict customer churn in the telecommunications industry. It helps identify customers who may leave the service and supports data-driven customer retention strategies.
